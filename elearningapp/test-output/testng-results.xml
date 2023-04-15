@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-04-15T10:17:27 IST" name="Default suite" finished-at="2023-04-15T10:17:33 IST" duration-ms="6379">
+    <groups>
+    </groups>
+    <test started-at="2023-04-15T10:17:27 IST" name="Default test" finished-at="2023-04-15T10:17:33 IST" duration-ms="6379">
+      <class name="com.sample.program.Course">
+        <test-method signature="loginToSimplilearnApp()[pri:0, instance:com.sample.program.Course@1dde4cb2]" started-at="2023-04-15T10:17:27 IST" name="loginToSimplilearnApp" finished-at="2023-04-15T10:17:33 IST" duration-ms="6329" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginToSimplilearnApp -->
+      </class> <!-- com.sample.program.Course -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
